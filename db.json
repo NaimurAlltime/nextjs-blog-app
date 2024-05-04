@@ -53,6 +53,15 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "New Blog",
+      "description": "this is new blog",
+      "publish_date": "2024-05-15",
+      "author_name": "Naim",
+      "blog_image": "https://img.freepik.com/free-vector/nature-scene-with-flower-garden-sunset_1308-35135.jpg?t=st=1714801943~exp=1714805543~hmac=7baaa8db836c5c47946c40aa97bdc921573f7496cf7a5c9559ef065ed00f9740&w=740",
+      "total_likes": "100"
     }
   ]
 }
